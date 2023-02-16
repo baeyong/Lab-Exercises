@@ -1,0 +1,41 @@
+*{
+    /* global */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header {
+    color: blue;
+    /* not used in class */
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.headers{
+    border: 1px solid;
+    margin: auto;
+    /* not used in class */
+    width: fit-content;
+}
+
+.frame {
+    height: 500px;
+    width: 500px;
+}
+
+.personal-pics {
+    padding-bottom: 30px;
+    margin: auto;
+}
+
+
+body {
+    background-color: lightgreen;
+}
+
+li {
+    /* not used in class */
+    list-style-type:circle;
+}
+ 
+
